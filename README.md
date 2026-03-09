@@ -1,4 +1,4 @@
-## 1. Análisis del Problema y Enfoque de Sostenibilidad
+## 1. Analisis del Problema y Enfoque de Sostenibilidad
 
 ### El "Bug" Educativo
 
