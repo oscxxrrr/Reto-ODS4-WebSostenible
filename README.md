@@ -8,7 +8,7 @@
 > ambiental negativo. Estas barreras dificultan que estudiantes con conexiones
 > lentas o dispositivos antiguos puedan acceder a contenidos educativos de calidad.
 
-### Nuestro "Parche" Sostenible
+### Nuestro "Parche" Sostenibles
 
 - [ ] Medida 1: Uso de un diseño web ligero con imágenes optimizadas para que la plataforma cargue rapido incluso con conexiones lentas.
 - [ ] Medida 2: Implementación de accesibilidad para lectores de pantalla y navegación sencilla para todos los usuarios.
