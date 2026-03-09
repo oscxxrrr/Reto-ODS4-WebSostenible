@@ -1,4 +1,4 @@
-## 1. Análisis del Problema y Enfoque de Sostenibilidad (Responsable: Alumno A)
+## 1. Análisis del Problema y Enfoque de Sostenibilidad
 
 ### El "Bug" Educativo
 
@@ -12,5 +12,5 @@
 
 - [ ] Medida 1: Uso de un diseño web ligero con imágenes optimizadas para que la plataforma cargue rápido incluso con conexiones lentas.
 - [ ] Medida 2: Implementación de accesibilidad para lectores de pantalla y navegación sencilla para todos los usuarios.
-- [ ] Medida 3: Uso de modo oscuro para reducir el consumo de energía en dispositivos móviles.
+- [ ] Medida 3: Uso de modo oscuro para reducir el consumo de energía en dispositivos moviles.
 - [ ] Medida 4: Sustitución de materiales en papel por recursos digitales accesibles desde la web.
